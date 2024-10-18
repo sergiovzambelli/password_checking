@@ -1,6 +1,6 @@
 # Custom
 dict/*
-# !dict/SplashData-2014.txt
+!dict/SplashData-2014.txt
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
